@@ -3,8 +3,7 @@ This is a simple blog website which supports multi-languages (english, nepali an
 This is an Open Source Project, So feel free to explore (use) in any ways you like.
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
+1. Add a Star 🌟  to this 👆 Repository
 
 
 ## Donate
@@ -32,10 +31,7 @@ This is an Open Source Project, So feel free to explore (use) in any ways you li
 
 *(You can Add More...)*
 
-## Website at a Glance
 
-
-![Login Page in Multiple Languages](https://2.bp.blogspot.com/-CA4FX5Hwi3U/WxPmCuOdTxI/AAAAAAAAC_8/qT262sNVDLoGwLVw52uwao_uBVWKLp1-QCLcBGAs/s640/login.jpg)
 
 ## Instructions to Use
 

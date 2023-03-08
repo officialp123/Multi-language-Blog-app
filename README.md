@@ -9,11 +9,7 @@ This is an Open Source Project, So feel free to explore (use) in any ways you li
 
 ## Donate
 
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+**Donate by wire transfer:** E-Mail at princedavisy111@gmail.com for wire transfer details. 
 
 
 ## Technologies Used
@@ -38,7 +34,6 @@ This is an Open Source Project, So feel free to explore (use) in any ways you li
 
 ## Website at a Glance
 
-#### [Click Here to watch Demo Video](https://www.youtube.com/watch?v=RU6jsPXj1ys)
 
 ![Login Page in Multiple Languages](https://2.bp.blogspot.com/-CA4FX5Hwi3U/WxPmCuOdTxI/AAAAAAAAC_8/qT262sNVDLoGwLVw52uwao_uBVWKLp1-QCLcBGAs/s640/login.jpg)
 
@@ -102,10 +97,6 @@ This is a very simple Content Management System (No advanced stuffs).
 3. Hola! You're logged in. Now you can manage categories, posts and users.
 
 ## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
+1. Email - princedavisy111@gmail.com
 
-## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa/ "Vijay Thapa on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram/vijaythapa.code/ "Vijay Thapa on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/thevijaythapa/ "Vijay Thapa on Facebook")
-5. Twitter - [@thevijaythapa](https://www.twitter.com/thevijaythapa "Vijay Thapa on Twitter")
+
